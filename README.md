@@ -9,6 +9,12 @@ An AI-powered Document Intelligence application that enables natural language qu
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_Cloud-F55036?style=for-the-badge&logo=fastapi&logoColor=white)
 
+<br/>
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chat-with-your-documents-uuasgmkmcsqtcvzgj2jyeh.streamlit.app)
+
+**🔗 Live Demo:** [chat-with-your-documents.streamlit.app](https://chat-with-your-documents-uuasgmkmcsqtcvzgj2jyeh.streamlit.app)
+
 </div>
 
 ---
